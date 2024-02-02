@@ -3,8 +3,8 @@
 ## Overview
 
 - Hanni Salman
-- which assignment are included
-- which one are completed and which one are not
+- Assignment 1,2,3,5,6,7 are included.
+- Assignment 4,8,9 aren't included.
 
 ## Friday presentation
 - add the friday presentation into the weekly folder
