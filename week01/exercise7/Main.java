@@ -15,7 +15,7 @@ public class Main {
 
 
 
-        
+
         Map<String, Integer> totalSumByCurrency = transactions.stream()
                 .collect(Collectors.groupingBy(Transaction::getCurrency,
                         Collectors.summingInt(Transaction::getAmount)));
