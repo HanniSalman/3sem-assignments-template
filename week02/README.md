@@ -3,8 +3,8 @@
 ## Overview
 
 - Hanni Salman
-- which assignment are included
-- which one are completed and which one are not
+- Assignments from day 1: task 1 and 2 are included. From day 2 threads: Exercise 1,2,3,4,6 are included. 
+- All are completed.
 
 ## Friday presentation
-- add the friday presentation into the weekly folder
+- From day 2 threads: Exercise 1, is the exercise I'm going to show on friday. 

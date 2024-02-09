@@ -1,0 +1,77 @@
+[
+  {
+    "firstName": "Hanni",
+    "lastName": "Salman",
+    "birthDate": "25-10-1999",
+    "address": {
+      "street": "Thyrasvej 48A",
+      "city": "Toksværd",
+      "zipCode": 4684
+    },
+    "account": {
+      "id": "1",
+      "balance": "500",
+      "isActive": true
+    }
+  },
+  {
+    "firstName": "Emil",
+    "lastName": "Hansen",
+    "birthDate": "10-08-2013",
+    "address": {
+      "street": "EmilVej 4",
+      "city": "Næstved",
+      "zipCode": 4700
+    },
+    "account": {
+      "id": "2",
+      "balance": "450",
+      "isActive": true
+    }
+  },
+  {
+    "firstName": "Adem",
+    "lastName": "Ademsen",
+    "birthDate": "10-10-2009",
+    "address": {
+      "street": "AdemVej 7",
+      "city": "Næstved",
+      "zipCode": 4700
+    },
+    "account": {
+      "id": "3",
+      "balance": "6000",
+      "isActive": true
+    }
+  },
+  {
+    "firstName": "Ravioli",
+    "lastName": "Raviolisen",
+    "birthDate": "20-01-2001",
+    "address": {
+      "street": "Ravioli Vej 10",
+      "city": "Næstved",
+      "zipCode": 4700
+    },
+    "account": {
+      "id": "4",
+      "balance": "0",
+      "isActive": false
+    }
+  },
+  {
+    "firstName": "Hans",
+    "lastName": "Hansen",
+    "birthDate": "04-06-1990",
+    "address": {
+      "street": "Hansen Vej 2",
+      "city": "Næstved",
+      "zipCode": 4700
+    },
+    "account": {
+      "id": "5",
+      "balance": "500000",
+      "isActive": true
+    }
+  }
+]

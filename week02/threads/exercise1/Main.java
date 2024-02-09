@@ -3,6 +3,10 @@ package week02.threads.exercise1;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
+
+
+//Dette er hvad der er stillet af krav til den første opgave med threads. Det under denne main klasse er ekstra i forhold til at printe det ud i alfabetisk rækkefølge.
+
 public class Main {
     /*public static void main(String[] args) throws InterruptedException {
         ExecutorService worker = Executors.newFixedThreadPool(4);
