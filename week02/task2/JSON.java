@@ -1,16 +1,16 @@
 package week02.task2;
 
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
+//import com.google.gson.Gson;
+//import com.google.gson.GsonBuilder;
 import java.io.FileReader;
 
 public class JSON {
-    static Gson gson = new GsonBuilder().setPrettyPrinting().create();
+   // static Gson gson = new GsonBuilder().setPrettyPrinting().create();
     public static void main(String[] args) {
 
     }
 
-    public static Customer[] getAccounts(){
+   /* public static Customer[] getAccounts(){
         Customer[] customers = null;
         try(FileReader reader = new FileReader("file:///Users/hannisalman/Desktop/Skole/IntelliJ/3Semester/3sem-assignments-template/week02/task2/account.json")){
             customers = gson.fromJson(reader, Customer[].class);
@@ -18,7 +18,7 @@ public class JSON {
 
         }
         return customers;
-    }
+    }*/
 }
 
 class Customer {
